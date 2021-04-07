@@ -1,1 +1,1 @@
-# shopping-email-temp
+# educate-email-temp
